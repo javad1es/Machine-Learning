@@ -1,3 +1,3 @@
 # Machine-Learning
 Predicting university admission by Machine-Learning
-according to some parameters, Model will predict chance of admission.
+According to some parameters (here according to GRE score), Model will predict chance of admission. You can change the parameters and anticipate based on other parameters. Enjoy !!
